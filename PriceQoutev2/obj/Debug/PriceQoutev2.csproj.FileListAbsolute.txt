@@ -1,0 +1,9 @@
+G:\C# 2024\Lecture Demos\PriceQoutev2\PriceQoutev2\bin\Debug\PriceQoutev2.exe.config
+G:\C# 2024\Lecture Demos\PriceQoutev2\PriceQoutev2\bin\Debug\PriceQoutev2.exe
+G:\C# 2024\Lecture Demos\PriceQoutev2\PriceQoutev2\bin\Debug\PriceQoutev2.pdb
+G:\C# 2024\Lecture Demos\PriceQoutev2\PriceQoutev2\obj\Debug\PriceQoutev2.csprojResolveAssemblyReference.cache
+G:\C# 2024\Lecture Demos\PriceQoutev2\PriceQoutev2\obj\Debug\PriceQoutev2.PriceQoutev2.resources
+G:\C# 2024\Lecture Demos\PriceQoutev2\PriceQoutev2\obj\Debug\PriceQoutev2.Properties.Resources.resources
+G:\C# 2024\Lecture Demos\PriceQoutev2\PriceQoutev2\obj\Debug\PriceQoutev2.csproj.GenerateResource.Cache
+G:\C# 2024\Lecture Demos\PriceQoutev2\PriceQoutev2\obj\Debug\PriceQoutev2.exe
+G:\C# 2024\Lecture Demos\PriceQoutev2\PriceQoutev2\obj\Debug\PriceQoutev2.pdb
